@@ -6,9 +6,11 @@ This is a beginner-friendly Business Intelligence case study based on a fictiona
 
 ## 🎯 Goals
 
-- Compare sales on **weekdays vs. weekends**
-- Identify **low-performing products on weekends**
-- Analyze **sales trends by day of the week**
+- Compare Total Sales: **Weekdays vs. Weekends**
+- Identify **Low-Performing Products on Weekends**
+- Analyze **Sales by Day of the Week**
+- Support **Business Decisions with Visual Dashboards**
+- Practice **Data Cleaning and Transformation**
 
 ---
 
