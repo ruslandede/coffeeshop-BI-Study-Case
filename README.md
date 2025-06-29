@@ -32,7 +32,7 @@ This is a beginner-friendly Business Intelligence case study based on a fictiona
 
 ## 📁 Project Structure
 - **datasets/**
-- ** dashboards/**
+- **dashboards/**
 - **sql/**
 - **README.md**
 
